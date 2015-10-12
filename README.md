@@ -1,5 +1,5 @@
 # Motion/Distance Sensing Security System Project
-This is my Final Project for CS 120B
+CS/EE 120B Final Project
 
 ## Dependencies
 To replicate this project a few things are needed:
